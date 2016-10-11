@@ -1,3 +1,4 @@
 - first commint
 
 - git add feaaure x2 user1
+- git add feaaure2 x2 user2
